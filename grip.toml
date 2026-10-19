@@ -40,3 +40,63 @@ pin = "5c621654cdbc60bf8e1d9fb012b5c32c7692706a"
 mode = "full"
 [members.remotes]
 origin = "https://github.com/synapt-dev/eval.git"
+
+[[members]]
+name = "extract"
+path = "extract"
+upstream = "origin/main"
+ref = "main"
+pin = "4625b102ba395abc7ea5e377d1196828db2111f4"
+mode = "full"
+[members.remotes]
+origin = "https://github.com/synapt-dev/extract.git"
+
+[[members]]
+name = "homebrew-tap"
+path = "homebrew-tap"
+upstream = "origin/main"
+ref = "main"
+pin = "119c193b2e602220f6f178714bf1f2db30ddb473"
+mode = "full"
+[members.remotes]
+origin = "https://github.com/synapt-dev/homebrew-tap.git"
+
+[[members]]
+name = "codi"
+path = "codi"
+upstream = "origin/main"
+ref = "main"
+pin = "4b4e662228b5fec1dcce89f252e45cd47c659da7"
+mode = "full"
+[members.remotes]
+origin = "https://github.com/synapt-dev/codi.git"
+
+[[members]]
+name = "codi-rs"
+path = "codi-rs"
+upstream = "origin/main"
+ref = "main"
+pin = "2f1b7ff079f7b7c50eb3b4001d16ce6ea205b740"
+mode = "full"
+[members.remotes]
+origin = "https://github.com/synapt-dev/codi-rs.git"
+
+[[members]]
+name = "codememo-benchmark"
+path = "codememo-benchmark"
+upstream = "origin/main"
+ref = "main"
+pin = "4257bfd584d655de569454c5c4201f998cd19994"
+mode = "full"
+[members.remotes]
+origin = "https://github.com/synapt-dev/codememo-benchmark.git"
+
+[[members]]
+name = "vorn-mat"
+path = "vorn-mat"
+upstream = "origin/main"
+ref = "main"
+pin = "06943682b9f894f0804028314d0a1cb0bb1763cc"
+mode = "full"
+[members.remotes]
+origin = "https://github.com/synapt-dev/vorn-mat.git"

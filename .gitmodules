@@ -19,3 +19,33 @@
 	url = "https://github.com/synapt-dev/eval.git"
 	branch = "main"
 	update = merge
+[submodule "extract"]
+	path = "extract"
+	url = "https://github.com/synapt-dev/extract.git"
+	branch = "main"
+	update = merge
+[submodule "homebrew-tap"]
+	path = "homebrew-tap"
+	url = "https://github.com/synapt-dev/homebrew-tap.git"
+	branch = "main"
+	update = merge
+[submodule "codi"]
+	path = "codi"
+	url = "https://github.com/synapt-dev/codi.git"
+	branch = "main"
+	update = merge
+[submodule "codi-rs"]
+	path = "codi-rs"
+	url = "https://github.com/synapt-dev/codi-rs.git"
+	branch = "main"
+	update = merge
+[submodule "codememo-benchmark"]
+	path = "codememo-benchmark"
+	url = "https://github.com/synapt-dev/codememo-benchmark.git"
+	branch = "main"
+	update = merge
+[submodule "vorn-mat"]
+	path = "vorn-mat"
+	url = "https://github.com/synapt-dev/vorn-mat.git"
+	branch = "main"
+	update = merge
