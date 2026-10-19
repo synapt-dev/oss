@@ -1,0 +1,42 @@
+schema_version = 1
+workspace_name = "oss"
+
+[[members]]
+name = "grip"
+path = "grip"
+upstream = "origin/main"
+ref = "main"
+pin = "8c58df6a4a4432b9a02c74008e273729ad345901"
+mode = "full"
+[members.remotes]
+origin = "https://github.com/synapt-dev/grip.git"
+
+[[members]]
+name = "recall"
+path = "recall"
+upstream = "origin/main"
+ref = "main"
+pin = "57b8744094802c6d3a28c5fa0f0a5f25bcca7e3b"
+mode = "full"
+[members.remotes]
+origin = "https://github.com/synapt-dev/recall.git"
+
+[[members]]
+name = "runner"
+path = "runner"
+upstream = "origin/main"
+ref = "main"
+pin = "8b404090a02712708a0b7082c6aae7b178f4488c"
+mode = "full"
+[members.remotes]
+origin = "https://github.com/synapt-dev/runner.git"
+
+[[members]]
+name = "eval"
+path = "eval"
+upstream = "origin/main"
+ref = "main"
+pin = "5c621654cdbc60bf8e1d9fb012b5c32c7692706a"
+mode = "full"
+[members.remotes]
+origin = "https://github.com/synapt-dev/eval.git"
